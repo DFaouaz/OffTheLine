@@ -1,0 +1,7 @@
+include ':android_game'
+include ':android_engine'
+include ':logic'
+include ':desktop_engine'
+include ':engine'
+include ':desktop_game'
+rootProject.name = "OffTheLine"

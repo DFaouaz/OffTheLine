@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="desktop_engine" target="1.7" />
+      <module name="desktop_game" target="1.7" />
+      <module name="engine" target="1.7" />
+      <module name="logic" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
